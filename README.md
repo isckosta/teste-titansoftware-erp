@@ -1,4 +1,4 @@
-## Teste para vaga de Desenvolvedor PHP na empresa Titan Software ERO
+## Teste para vaga de Desenvolvedor PHP na empresa Titan Software ERP
 
 ### Objetivo
 
