@@ -21,10 +21,13 @@ E EXCLUSÃO** dos produtos.
     
 ### O sistema foi criado utilizando
 
-1. PHP (puro);
+1. PHP 8.1 (puro);
 2. HTML;
 3. CSS;
 4. MySQL;
 
+### Dados do Banco de Dados
+
+Na pasta docs, você poderá encontrar um script SQL do banco de dados para facilitar a utilização.
 
 
